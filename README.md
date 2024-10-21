@@ -1,3 +1,9 @@
+## Typescript/Tailblocks example Website
+
+Here’s a preview of the **Hero Section**:
+
+![Hero Section](./screen01.png)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
